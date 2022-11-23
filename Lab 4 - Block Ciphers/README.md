@@ -96,20 +96,3 @@ python extract.py -i [input filename] -o [output filename] -hh [known header fil
 ```
 
 Hint: You can ignore the ﬁrst few characters which represent the header as it has already been given. The plaintext PBM image is black and white, i.e. the format only has two values, either 0 or 1. You can assume that there is no space between the data values.
-
-## Submission
-
-### eDimension Submission
-
-
-Lab 4 submission:
-Upload a zip file with the following: file name format: lab4_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
-
-Upload a **zip file** with the following:
-
-* `present.py`
-* `ecb.py`
-* `extract.py`
-* Decrypted `letter.e`
-
-**Deadline:17 June(2359)**
