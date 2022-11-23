@@ -155,22 +155,3 @@ Answer the following questions in your report:
 * How you decided or designed your approach
 * Main challenges and limitations of your approach
 * **How many hashes out of the total did you manage to crack** (there is no prize)
-
-## Submission
-
-### eDimension Submission
-
-Lab 3 submission:
-
-Upload a **zip file** with the following:
-file name format: lab3_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab) 
-
-* Report (PDF or HTML format)
-* `ex2.py`
-* `ex2_hash.txt`
-* `ex4.py`
-* `salted6.txt`
-* `plain6.txt`
-* `ex5.csv`
-
-**Deadline: 10 june (2359)**
