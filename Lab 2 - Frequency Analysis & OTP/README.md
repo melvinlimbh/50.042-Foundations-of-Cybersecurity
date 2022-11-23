@@ -60,23 +60,3 @@ Hints:
 * **You do not need to know anything about the OTP for this exercise.**
 
 You are provided with `ex2.py` in this folder. Complete it to show that you can change the encrypted message without knowledge of the OTP.
-
-## Submission
-
-### eDimension Submission
-
-Submission rules:
-
-* Please rename the file to: lab2_name_studentid_cohortnumber(0/1)
-
-Lab 2 submission:
-
-Upload a **zip file** with the following:
-
-* `ex1.py`, your python script to perform decryption of the substitution cipher (`story_cipher.txt`)
-* Decrypted plain text for Part I as `solution.txt`
-* `ex2.py`, your python script to change the OTP message, you can based it on `ex2.py`
-* Report is required
-
-**You will not get the grade if your submission is not runnable.**
-**Deadline: 3 June (2359)**
