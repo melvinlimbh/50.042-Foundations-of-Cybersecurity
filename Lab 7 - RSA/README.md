@@ -1,7 +1,5 @@
 # Lab 7: RSA
 
-**Deadline: 15 July (2359)**
-
 <!-- TOC -->
 
 - [Lab 7: RSA](#lab-7-rsa)
@@ -11,8 +9,6 @@
     - [Part III: Protocol Attack](#part-iii-protocol-attack)
     - [Part IV: RSA Digital Signature Protocol Attack](#part-iv-rsa-digital-signature-protocol-attack)
     - [Part V: Defending RSA with Padding](#part-v-defending-rsa-with-padding)
-    - [Submission](#submission)
-        - [eDimension Submission](#edimension-submission)
 
 <!-- /TOC -->
 
@@ -163,22 +159,3 @@ Write a script `ex5.py` to do the following:
 2. Report if the attack works
 
 Answer in `ans.txt`: Explain one limitation of RSA protocol attacks.
-
-## Submission
-
-### eDimension Submission
-
-
-Lab 7 submission:
-
-Upload a zip file with the following: file name format: lab7_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
-
-Upload a **zip file** with the following:
-
-* `ex2.py`
-* `ex3.py`
-* `ex4.py`
-* `ex5.py`
-* `ans.txt`
-
-**Deadline: 15 July (2359)**
