@@ -1,0 +1,13 @@
+Q1. We only need to exchange results of g^a(resp. b) mod p, and channel do not need to be secure. Thus we can use
+    a key server or any communication platforms. This is due to having many unknowns for the attacker to brute force,
+    it is difficult for the attacker to find out g,a,b,p as all of them can be random from a one-way function.
+
+Q2. Advantage : both parties do not need any prior knowledge other than the public key that was exchanged,
+    making it fast and simple.
+
+    Disadvantage : Does not work on any asymmetric key exchanges  
+
+
+Q3.  At least 2048 bits, the time and space complexity of babygiant is O(2^(n/2)), and it would take up 
+     a lot of memory to store the different key values for comparison. For a 2048-bit prime number,
+     the memory of computers would be overloaded and program will crash. 
