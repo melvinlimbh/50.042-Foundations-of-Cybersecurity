@@ -118,22 +118,3 @@ As the attacker, we start with private keys (a, b) which are unknown, and the pu
 2. Perform the Baby-Step Giant-Steps algorithm, allowing us to derive a guess of `x`.
 3. To get the guess of shared key (of the public key and the unknown private key), we perform a square_multiply of the public key and our guess of `x`.
 4. To check if this is correct, we compute the real shared key from the public and private key. (Obviously, the real attacker cannot do this, but you can to check the correctness in this exercise).
-
-## Submission
-
-### eDimension Submission
-
-
-
-Lab 6 submission:
-  
-Upload a zip file with the following: file name format: lab6_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
-
-Upload a **zip file** with the following:
-
-* `primes.py`
-* `dhke.py`
-* `babygiant.py`
-* `ans.txt`
-
-**Deadline: 1 July(2359)**
