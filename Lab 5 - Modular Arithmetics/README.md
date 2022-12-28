@@ -1,7 +1,5 @@
 # Lab 5: Modular Arithmetics
 
-**Deadline: 24 June (2359)**
-
 - [Lab 5: Modular Arithmetics](#lab-5-modular-arithmetics)
   - [Objectives](#objectives)
   - [Background](#background)
@@ -16,8 +14,6 @@
   - [Part IV (choose one of two)](#part-iv-choose-one-of-two)
       - [1. Quiz](#1-quiz)
       - [2. AES Byte Substitution Layer](#2-aes-byte-substitution-layer)
-  - [Submission](#submission)
-    - [eDimension Submission](#edimension-submission)
 
 ## Objectives
 
@@ -345,20 +341,3 @@ Generate Table 4.3 on page 101 of Understanding Cryptography.
 Save the table as a text file (`table2.txt`), you will need to submit it.
 
 Your own self-objective (no submission): You should be able to show the working of finding the inverse multiplication by hand.
-
-## Submission
-
-### eDimension Submission
-
-Lab 5 submission:
-
-Upload a zip file with the following: file name format: lab4_name_studentid_cohortnumber (cohortnumber 0/1, 0 for thursday lab, 1 for friday lab)
-
-Upload a **zip file** with the following:
-
-* `gf2n.py`
-* `table1.txt`
-* `quiz.txt` (if attempted)
-* `table2.txt` (if attempted)
-
-**Deadline: 24 June (2359)**
