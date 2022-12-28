@@ -1,0 +1,5 @@
+Q1. False
+Q2. True
+Q3. True
+Q4. False
+Q5. False
